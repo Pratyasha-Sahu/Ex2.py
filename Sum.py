@@ -1,3 +1,3 @@
 a=5
-b=8
-print("The sum is", a+b)
+b=5
+print("The pro is", a*b)
